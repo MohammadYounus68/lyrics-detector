@@ -1,4 +1,4 @@
-# hard-rock-solution
+# Live:https://lyrics-detector.netlify.app/
 ### Search Song
 api link: https://api.lyrics.ovh/suggest/:searchText
 
